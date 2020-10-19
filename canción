@@ -6,3 +6,12 @@
     </head>
     <body>
     
+    <h1>Dynamite</h1>
+    <h2>BTS</h2>
+    <audio controls src="BTS - Dynamite.mp3" >
+    </audio>
+    
+    <p>‘Cause ah, ah, I’m in the stars tonight
+So watch me bring the fire and set the night alight
+    </p>
+    <img src="BTS_Dynamite.jpg" width="300" alt="300">
